@@ -44,6 +44,8 @@ my projects, skills, and learning journey in Computer Engineering.
 ## 🚀 Projects
 
 ### 📱 Project Nexus
+### Power Supply
+### Embedded System
 
 ## 🎓 Education
 
